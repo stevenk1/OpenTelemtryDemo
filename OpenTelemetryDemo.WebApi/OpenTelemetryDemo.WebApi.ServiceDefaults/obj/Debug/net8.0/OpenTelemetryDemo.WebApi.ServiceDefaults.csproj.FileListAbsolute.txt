@@ -1,0 +1,12 @@
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\bin\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.deps.json
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\bin\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\bin\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.pdb
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.AssemblyInfo.cs
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\refint\OpenTelemetryDemo.WebApi.ServiceDefaults.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\OpenTelemetryDemo.WebApi.ServiceDefaults.pdb
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetryDemo.WebApi.ServiceDefaults\obj\Debug\net8.0\ref\OpenTelemetryDemo.WebApi.ServiceDefaults.dll

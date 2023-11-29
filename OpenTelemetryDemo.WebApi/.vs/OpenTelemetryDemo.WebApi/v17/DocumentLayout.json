@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetry.weatherworker\\weatherstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|solutionrelative:opentelemetry.weatherworker\\weatherstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetry.weatherworker\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|solutionrelative:opentelemetry.weatherworker\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC7BD7E-7F33-4E45-91E6-D60D43E14A80}|OpenTelemetryDemo.WebApi.AppHost\\OpenTelemetryDemo.WebApi.AppHost.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetrydemo.webapi.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC7BD7E-7F33-4E45-91E6-D60D43E14A80}|OpenTelemetryDemo.WebApi.AppHost\\OpenTelemetryDemo.WebApi.AppHost.csproj|solutionrelative:opentelemetrydemo.webapi.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10644ADB-7043-4766-8C63-DDFDB6789888}|OpenTelemetry.Shared\\OpenTelemetry.Shared.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetry.shared\\getweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10644ADB-7043-4766-8C63-DDFDB6789888}|OpenTelemetry.Shared\\OpenTelemetry.Shared.csproj|solutionrelative:opentelemetry.shared\\getweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetrydemo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|solutionrelative:opentelemetrydemo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetrydemo.webapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|solutionrelative:opentelemetrydemo.webapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetrydemo.webapi\\opentelemetrydemo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B638421-6C25-43B0-AF44-0FD1ECF5FECC}|OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj|solutionrelative:opentelemetrydemo.webapi\\opentelemetrydemo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|c:\\users\\stevenk\\opentelemtrydemo\\opentelemetrydemo.webapi\\opentelemetry.weatherworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DFBC08-F560-49FE-A178-552584A3CD3E}|OpenTelemetry.WeatherWorker\\OpenTelemetry.WeatherWorker.csproj|solutionrelative:opentelemetry.weatherworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\Program.cs",
+              "RelativeDocumentMoniker": "OpenTelemetry.WeatherWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\Program.cs",
+              "RelativeToolTip": "OpenTelemetry.WeatherWorker\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:20:40.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\WeatherStoreContext.cs",
+              "RelativeDocumentMoniker": "OpenTelemetry.WeatherWorker\\WeatherStoreContext.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\WeatherStoreContext.cs",
+              "RelativeToolTip": "OpenTelemetry.WeatherWorker\\WeatherStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T07:36:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "OpenTelemetryDemo.WebApi.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.AppHost\\Program.cs",
+              "RelativeToolTip": "OpenTelemetryDemo.WebApi.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T07:24:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetWeatherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.Shared\\GetWeatherCommand.cs",
+              "RelativeDocumentMoniker": "OpenTelemetry.Shared\\GetWeatherCommand.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.Shared\\GetWeatherCommand.cs",
+              "RelativeToolTip": "OpenTelemetry.Shared\\GetWeatherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T07:23:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "OpenTelemetry.WeatherWorker\\MessageHandler.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetry.WeatherWorker\\MessageHandler.cs",
+              "RelativeToolTip": "OpenTelemetry.WeatherWorker\\MessageHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:27:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OpenTelemetryDemo.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\Program.cs",
+              "RelativeToolTip": "OpenTelemetryDemo.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:02:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "OpenTelemetryDemo.WebApi\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "OpenTelemetryDemo.WebApi\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T12:55:47.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenTelemetryDemo.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj",
+              "RelativeDocumentMoniker": "OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj",
+              "ToolTip": "C:\\Users\\stevenk\\OpenTelemtryDemo\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj",
+              "RelativeToolTip": "OpenTelemetryDemo.WebApi\\OpenTelemetryDemo.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-27T12:55:15.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

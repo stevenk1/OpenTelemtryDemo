@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OpenTelemetryDemo.WebApi.AppHost.props" />
+</Project>

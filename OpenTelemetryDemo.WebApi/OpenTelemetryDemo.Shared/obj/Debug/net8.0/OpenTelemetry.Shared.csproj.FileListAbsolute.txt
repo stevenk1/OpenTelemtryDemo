@@ -1,0 +1,11 @@
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\bin\Debug\net8.0\OpenTelemetry.Shared.deps.json
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\bin\Debug\net8.0\OpenTelemetry.Shared.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\bin\Debug\net8.0\OpenTelemetry.Shared.pdb
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.AssemblyInfoInputs.cache
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.AssemblyInfo.cs
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.csproj.CoreCompileInputs.cache
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\refint\OpenTelemetry.Shared.dll
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\OpenTelemetry.Shared.pdb
+C:\Users\stevenk\OpenTelemtryDemo\OpenTelemetryDemo.WebApi\OpenTelemetry.Shared\obj\Debug\net8.0\ref\OpenTelemetry.Shared.dll
