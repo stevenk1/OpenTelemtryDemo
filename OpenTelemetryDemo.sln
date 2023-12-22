@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetryDemo", "OpenTelemetryDemo\OpenTelemetryDemo.csproj", "{99F2A4DC-1A01-4F6D-A01C-6C42DE357208}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetryDemo.Shared", "OpenTelemetryDemo.Shared\OpenTelemetryDemo.Shared.csproj", "{23781355-93F9-40C4-99EC-95AA88F8368A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetryDemo.Api", "OpenTelemetryDemo.Api\OpenTelemetryDemo.Api.csproj", "{A52264FB-F79F-4703-AB9C-60F3D77BCAA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetryDemo.WeatherDownloader", "OpenTelemetryDemo.WeatherDownloader\OpenTelemetryDemo.WeatherDownloader.csproj", "{3E2E3FBD-FC1D-4467-841A-9D45310A45AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetryDemo.Client", "OpenTelemetryDemo.Client\OpenTelemetryDemo.Client.csproj", "{F29ED8C6-FC51-4603-8A21-EF3AA14D2D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetryDemo.gRPC", "OpenTelemetryDemo.gRPC\OpenTelemetryDemo.gRPC.csproj", "{B398AE04-D0C1-4C77-AB26-1793A9DA6720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F2A4DC-1A01-4F6D-A01C-6C42DE357208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F2A4DC-1A01-4F6D-A01C-6C42DE357208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F2A4DC-1A01-4F6D-A01C-6C42DE357208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F2A4DC-1A01-4F6D-A01C-6C42DE357208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23781355-93F9-40C4-99EC-95AA88F8368A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23781355-93F9-40C4-99EC-95AA88F8368A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23781355-93F9-40C4-99EC-95AA88F8368A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23781355-93F9-40C4-99EC-95AA88F8368A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52264FB-F79F-4703-AB9C-60F3D77BCAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52264FB-F79F-4703-AB9C-60F3D77BCAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52264FB-F79F-4703-AB9C-60F3D77BCAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52264FB-F79F-4703-AB9C-60F3D77BCAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2E3FBD-FC1D-4467-841A-9D45310A45AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2E3FBD-FC1D-4467-841A-9D45310A45AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2E3FBD-FC1D-4467-841A-9D45310A45AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2E3FBD-FC1D-4467-841A-9D45310A45AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29ED8C6-FC51-4603-8A21-EF3AA14D2D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29ED8C6-FC51-4603-8A21-EF3AA14D2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29ED8C6-FC51-4603-8A21-EF3AA14D2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29ED8C6-FC51-4603-8A21-EF3AA14D2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B398AE04-D0C1-4C77-AB26-1793A9DA6720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B398AE04-D0C1-4C77-AB26-1793A9DA6720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B398AE04-D0C1-4C77-AB26-1793A9DA6720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B398AE04-D0C1-4C77-AB26-1793A9DA6720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C105C81-6F1E-4C2E-A693-DA6AD770C0BB}
+	EndGlobalSection
+EndGlobal
