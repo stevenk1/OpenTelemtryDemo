@@ -38,7 +38,7 @@ public class MessageHandler : IHandleMessages<GetWeatherCommand>, IHandleMessage
         IOpenWeatherMapService openWeatherMapService = new OpenWeatherMapService(
             new NullLogger<OpenWeatherMapService>(), new OpenWeatherMapConfiguration
             {
-                ApiKey = "fd3c8a1c5edacd9e697b25c4f5ce84d3",
+                ApiKey = "XXXX",
                 Language = "en",
                 ApiEndpoint = "https://api.openweathermap.org",
                 UnitSystem = "metric"
